@@ -11,3 +11,4 @@ npm install cors to handle cors error.
 # Supabase-setup
 User must add their own SUPABASE_URL and SUPABASE_KEY from their personal Supabase Project in .env file in the backend folder.
 
+#Also make sure frontend is running on different port say 3001
